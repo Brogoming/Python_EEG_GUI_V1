@@ -1,5 +1,4 @@
 from PyQt5 import QtWidgets, QtCore, uic
-from pyqtgraph import PlotWidget, plot
 import pyqtgraph as pg
 import logging
 from brainflow.board_shim import BoardShim, BrainFlowInputParams, BoardIds
